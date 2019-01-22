@@ -2,3 +2,5 @@
 ##About Me:
 
 Hello world!
+
+![](images/pineapple.jpg)
